@@ -1,4 +1,4 @@
-# 🚀 Copilot Router
+# Copilot Router
 
 **Your invisible, lightning-fast bridge to local AI.**
 
